@@ -18,3 +18,17 @@
     border: solid 2px #2271D1;
 
   }
+
+
+.button-categoria{
+    width: 432px;
+    height: 70px;
+    border-radius: 15px;
+    font-size: 32px;
+    font-weight: 800;
+    color: #F5F5F5;
+    align-items: center;
+    border: none;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+}
