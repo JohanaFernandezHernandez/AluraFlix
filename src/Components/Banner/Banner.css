@@ -1,0 +1,23 @@
+.container-banner{
+    display: flex;
+    /* max-width: 1440px; */
+    align-items: center;
+    justify-content: space-between;
+    height: 650px;
+    margin: 0 auto;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0 40px;
+    gap: 80px;
+    
+
+}
+
+.container-info{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    text-align: start;
+}
