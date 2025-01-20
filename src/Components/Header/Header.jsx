@@ -1,15 +1,18 @@
+import { useNavigate } from "react-router-dom";
 import IconAlura from "../../assets/svg/IconArura"
 import { Button } from "../Button/Button";
 import './Header.css';
 
 export const Header = () => {
+    const navigate = useNavigate();
 
     const onclick = () => {
-        console.log('Hice click en Home');
+        navigate('/')
+ 
     };
 
     const onclickVideo = () => {
-        console.log('Hice click en Nuevo Video');
+       navigate('/video')
     };
 
 

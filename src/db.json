@@ -1,0 +1,80 @@
+{
+    "categorias": [
+      {
+        "nombre": "Frontend",
+        "items": [
+          {
+            "id": 1,
+            "titulo": "Introducción a React",
+            "imagen": "https://example.com/images/react.jpg",
+            "urlVideo": "https://example.com/videos/intro-react.mp4",
+            "descripcion": "Aprende los fundamentos de React, una de las bibliotecas más populares para el desarrollo de interfaces de usuario."
+          },
+          {
+            "id": 2,
+            "titulo": "CSS Avanzado",
+            "imagen": "https://example.com/images/css.jpg",
+            "urlVideo": "https://example.com/videos/css-avanzado.mp4",
+            "descripcion": "Domina técnicas avanzadas de CSS como animaciones, flexbox y grid."
+          }
+        ]
+      },
+      {
+        "nombre": "Backend",
+        "items": [
+          {
+            "id": 1,
+            "titulo": "Node.js para Principiantes",
+            "imagen": "https://example.com/images/nodejs.jpg",
+            "urlVideo": "https://example.com/videos/nodejs-basico.mp4",
+            "descripcion": "Un recorrido por las bases de Node.js y cómo construir servidores eficientes."
+          },
+          {
+            "id": 2,
+            "titulo": "Bases de Datos con MongoDB",
+            "imagen": "https://example.com/images/mongodb.jpg",
+            "urlVideo": "https://example.com/videos/mongodb.mp4",
+            "descripcion": "Aprende a trabajar con bases de datos NoSQL usando MongoDB."
+          }
+        ]
+      },
+      {
+        "nombre": "Innovación y Gestión",
+        "items": [
+          {
+            "id": 1,
+            "titulo": "Metodologías Ágiles",
+            "imagen": "https://example.com/images/agile.jpg",
+            "urlVideo": "https://example.com/videos/agile.mp4",
+            "descripcion": "Descubre cómo implementar Scrum y otras metodologías ágiles en tu equipo."
+          },
+          {
+            "id": 2,
+            "titulo": "Design Thinking",
+            "imagen": "https://example.com/images/design-thinking.jpg",
+            "urlVideo": "https://example.com/videos/design-thinking.mp4",
+            "descripcion": "Explora cómo resolver problemas creativamente con Design Thinking."
+          }
+        ]
+      },
+      {
+        "nombre": "Diseño",
+        "items": [
+          {
+            "id": 1,
+            "titulo": "Introducción a Figma",
+            "imagen": "https://example.com/images/figma.jpg",
+            "urlVideo": "https://example.com/videos/figma.mp4",
+            "descripcion": "Aprende a usar Figma para diseñar interfaces modernas y colaborativas."
+          },
+          {
+            "id": 2,
+            "titulo": "Teoría del Color",
+            "imagen": "https://example.com/images/teoria-color.jpg",
+            "urlVideo": "https://example.com/videos/teoria-color.mp4",
+            "descripcion": "Comprende cómo utilizar el color efectivamente en tus diseños."
+          }
+        ]
+      }
+    ]
+  }
